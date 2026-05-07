@@ -139,9 +139,9 @@ mavenPublishing {
 
     pom {
         name = "Onesignal KMP"
-        description = ""
+        description = "A clean, feature-driven Kotlin Multiplatform (KMP) wrapper for the OneSignal SDK, handling push notifications, and user management across Android, iOS and web"
         inceptionYear = "2026"
-        url = ""
+        url = "https://github.com/mamon-aburawi/Onesignal-KMP"
         licenses {
             license {
                 name = "MIT License"
@@ -155,7 +155,7 @@ mavenPublishing {
             }
         }
         scm {
-            url = ""
+            url = "https://github.com/mamon-aburawi/Onesignal-KMP"
         }
     }
 
